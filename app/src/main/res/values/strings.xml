@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GloabalTouchService</string>
+    <string name="start">Start</string>
+    <string name="touch">Touch +</string>
+</resources>
